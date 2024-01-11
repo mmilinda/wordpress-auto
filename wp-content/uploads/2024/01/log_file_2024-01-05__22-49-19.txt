@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Top Store Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/auto
+Data file = C:\xampp\htdocs\auto/wp-content/uploads/2024/01/demo-content-import-file_2024-01-05__22-49-19.xml
+Widget file = C:\xampp\htdocs\auto/wp-content/uploads/2024/01/demo-widgets-import-file_2024-01-05__22-49-19.json
+Customizer file = C:\xampp\htdocs\auto/wp-content/uploads/2024/01/demo-customizer-import-file_2024-01-05__22-49-19.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Liste des produits - Popular - Imported
+Nuage d’étiquettes - Tag Clouds - Imported
+Image - No Title - Imported
+
+Secondary Sidebar : 
+
+Topstore : Highlight Widget - No Title - Imported
+Top Store : About Us widget - Know Us - Imported
+Top Store : Post Slide Widget - Store Updates - Imported
+Galerie - Product Showcase - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Top Store : About Us widget - No Title - Imported
+Texte - Connect With Us - Imported
+
+Footer Widget Area 2 : 
+
+Menu de navigation - End Points - Imported
+Texte - More About Store - Imported
+
+Footer Widget Area 3 : 
+
+Liste des produits - Products - Imported
+
+Footer Widget Area 4 : 
+
+HTML personnalisé - Contact Details - Imported
+Texte - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filtrer les produits par prix - Filter by Price - Imported
+Filtrer les produits par attribut - Filter by Color - Imported
+Filtrer les produits par note obtenue - Average Rating - Imported
+
+ThemeHunk MegaMenu Widgets : 
+
+Image - Home 1 - Imported
+Image - Home 2 - Imported
+Image - Home 3 - Imported
+Image - No Title - Imported
+Image - No Title - Imported
+Image - No Title - Imported
+Pages - No Title - Imported
+Pages - No Title - Imported
+Pages - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
